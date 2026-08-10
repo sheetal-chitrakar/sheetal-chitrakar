@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hello 👋 I'm Sheetal Chitrakar
 
+### About Me
+
+I'm a Computer Engineering student at the University of Cincinnati interested in embedded systems, robotics, electronics, and hardware-software development.
 <!--
 **sheetal-chitrakar/sheetal-chitrakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
